@@ -22,7 +22,7 @@
     ];
 
     const faqItems: FaqItem[] = $derived(
-        $_("faq.items").map((item: { question: string; answer: string }, index: number) => ({
+        ($_("faq.items") as any).map((item: { question: string; answer: string }, index: number) => ({
             question: item.question,
             answer: item.answer,
             icon: iconList[index]

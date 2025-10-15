@@ -1,0 +1,6 @@
+.env
+.svelte-kit
+node_modules
+.DS_Store
+AGENT.md
+.wrangler

@@ -9,7 +9,7 @@
         comment: string;
     }
 
-    const testimonials: Testimonial[] = $derived($_("testimonials.items"));
+    const testimonials: Testimonial[] = $derived(($_("testimonials.items") as any) as Testimonial[]);
 
     function getStarIcon(filled: boolean): string {
         if (filled) {

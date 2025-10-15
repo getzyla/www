@@ -23,7 +23,7 @@
     ];
 
     const privacySections: PrivacySection[] = $derived(
-        $_("privacy.sections").map((section: any, index: number) => ({
+        ($_("privacy.sections") as any).map((section: any, index: number) => ({
             title: section.title,
             content: section.content,
             icon: iconList[index],

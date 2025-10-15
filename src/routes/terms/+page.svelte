@@ -25,7 +25,7 @@
     ];
 
     const termsSections: TermSection[] = $derived(
-        $_("terms.sections").map((section: any, index: number) => ({
+        ($_("terms.sections") as any).map((section: any, index: number) => ({
             title: section.title,
             content: section.content,
             icon: iconList[index],
