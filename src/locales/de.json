@@ -1,0 +1,517 @@
+{
+  "navbar": {
+    "extensionButton": "Erweiterung installieren",
+    "settingsDialog": {
+      "title": "Einstellungen",
+      "description": "Passen Sie Zyla an Ihre Bedürfnisse an.",
+      "languageLabel": "Sprache"
+    }
+  },
+  "hero": {
+    "title": "KI-gestützte Sofortübersetzung für alle",
+    "description": "Übersetzen Sie jeden beliebigen Text im Web mit nur einem Klick – sofort und mühelos. Egal ob für die Arbeit oder den Alltag, Texte zu verstehen ist jetzt viel einfacher und zugänglicher."
+  },
+  "translateSection": {
+    "textToTranslate": "Zu übersetzender Text",
+    "selectSourceLanguage": "Quellsprache auswählen",
+    "selectTargetLanguage": "Zielsprache auswählen",
+    "placeholder": "Geben Sie hier den Text ein oder fügen Sie ihn ein, um ihn zu übersetzen...",
+    "clear": "Löschen",
+    "translating": "Übersetze...",
+    "translate": "Übersetzen",
+    "translationResult": "Übersetzungsergebnis",
+    "copied": "Kopiert",
+    "copy": "Kopieren",
+    "translationFailed": "Übersetzung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "characters": "Zeichen"
+  },
+  "why": {
+    "title": "Warum Zyla?",
+    "description": "Weil Zyla so konzipiert wurde, dass Übersetzungen für alle mühelos und zugänglich sind.",
+    "features": {
+      "free": {
+        "title": "Kostenlos",
+        "description": "Nutzen Sie Zyla kostenlos. Keine versteckten Gebühren oder Zahlungen erforderlich."
+      },
+      "unlimited": {
+        "title": "Unbegrenzt",
+        "description": "Mit Zyla können Sie so viele Übersetzungen machen, wie Sie möchten. Keine täglichen oder monatlichen Limits, und das Beste: keine Zeichenbegrenzung."
+      },
+      "fast": {
+        "title": "Schnell",
+        "description": "Zyla liefert Ihre Übersetzungen sofort. Selbst bei langen Texten müssen Sie nicht warten."
+      },
+      "easyToUse": {
+        "title": "Einfache Bedienung",
+        "description": "Dank der benutzerfreundlichen Oberfläche von Zyla ist das Übersetzen ganz einfach. Einfach Text einfügen und Übersetzung erhalten."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "description": "Schließen Sie sich Tausenden zufriedener Nutzer an, die Zyla zu ihrem bevorzugten Übersetzungstool gemacht haben.",
+    "stats": {
+      "activeUsers": "Aktive Nutzer",
+      "translations": "Übersetzungen",
+      "rating": "Bewertung"
+    },
+    "items": [
+      {
+        "name": "Sophia Turner",
+        "avatar": "ST",
+        "rating": 5,
+        "comment": "Zyla hat einen großen Unterschied gemacht, wie ich internationale Projekte angehe. Die Übersetzungen sind schnell und überraschend genau. Ich nutze es mittlerweile fast täglich."
+      },
+      {
+        "name": "Daniel Romero",
+        "avatar": "DR",
+        "rating": 4,
+        "comment": "Für ein kostenloses Tool ziemlich solide. Bei komplexen Texten gehen manchmal Nuancen verloren, aber insgesamt wirklich hilfreich."
+      },
+      {
+        "name": "Emily Zhao",
+        "avatar": "EZ",
+        "rating": 5,
+        "comment": "Für unsere mehrsprachigen Marketingaktivitäten verlassen wir uns auf Zyla. Im Vergleich zu traditionellen Übersetzungsdiensten spart es uns viel Zeit und Geld."
+      },
+      {
+        "name": "Liam Bennett",
+        "avatar": "LB",
+        "rating": 4,
+        "comment": "Ich nutze Zyla, um technische Dokumente in verschiedenen Sprachen zu lesen. Nicht perfekt, aber mehr als ausreichend, um Inhalte schnell zu verstehen."
+      },
+      {
+        "name": "Natalie Singh",
+        "avatar": "NS",
+        "rating": 5,
+        "comment": "Mit internationalen Kunden zu arbeiten war früher mühsam. Mit Zyla kann ich E-Mails und Nachrichten sofort übersetzen. Ein echter Lebensretter!"
+      },
+      {
+        "name": "Omar El-Sayed",
+        "avatar": "OES",
+        "rating": 4,
+        "comment": "Unser Support-Team nutzt Zyla, um Kundenanfragen in verschiedenen Sprachen zu bearbeiten. Schnell und meist genau, aber ich würde mir mehr Formatierungsoptionen wünschen."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Haben Sie Fragen? Wir haben Antworten",
+    "description": "Alles, was Sie über Zyla wissen müssen.",
+    "items": [
+      {
+        "question": "Was ist Zyla?",
+        "answer": "Zyla ist ein KI-gestütztes Sofortübersetzungstool, das direkt auf Webseiten funktioniert. Mit nur einem Klick können Sie beliebigen Text im Internet sofort übersetzen und die Kommunikation zwischen Sprachen mühelos und für alle zugänglich machen."
+      },
+      {
+        "question": "Wie benutze ich Zyla?",
+        "answer": "Die Nutzung von Zyla ist unglaublich einfach! Installieren Sie einfach unsere Browser-Erweiterung, markieren Sie den gewünschten Text auf einer beliebigen Webseite und klicken Sie auf die Übersetzen-Schaltfläche. Die Übersetzung erscheint sofort, ohne die Seite zu verlassen oder neue Tabs zu öffnen."
+      },
+      {
+        "question": "Ist Zyla wirklich kostenlos?",
+        "answer": "Ja! Zyla kann komplett kostenlos genutzt werden. Es gibt keine versteckten Gebühren, Premium-Abos oder Zeichenlimits. Wir glauben daran, Übersetzungen für jeden überall ohne Einschränkungen zugänglich zu machen."
+      },
+      {
+        "question": "Welche Sprachen unterstützt Zyla?",
+        "answer": "Zyla unterstützt über 100 Sprachen, darunter Englisch, Spanisch, Französisch, Deutsch, Chinesisch, Japanisch, Arabisch, Russisch, Portugiesisch, Italienisch, Niederländisch, Koreanisch, Türkisch und viele mehr. Wir fügen ständig neue Sprachen hinzu, um die globale Kommunikation weiter zu erleichtern."
+      },
+      {
+        "question": "Wie schnell ist die Übersetzung?",
+        "answer": "Blitzschnell! Zyla liefert Übersetzungen in Millisekunden. Kein Warten, kein Ladebildschirm – einfach markieren und übersetzen. Perfekt für Echtzeitgespräche, das Lesen fremdsprachiger Inhalte oder die Zusammenarbeit mit internationalen Teams."
+      },
+      {
+        "question": "Sind meine Daten bei Zyla sicher?",
+        "answer": "Absolut! Zyla nimmt Datenschutz sehr ernst. Wir speichern Ihre Übersetzungen nicht, verfolgen Ihr Surfverhalten nicht und teilen keine Daten mit Dritten. Alle Übersetzungen erfolgen lokal in Ihrem Browser für maximale Privatsphäre und Sicherheit."
+      },
+      {
+        "question": "Wie installiere ich die Zyla-Erweiterung?",
+        "answer": "Die Installation ist schnell und einfach! Besuchen Sie unsere Webseite, klicken Sie auf 'Erweiterung holen' und folgen Sie den Chrome-Browser-Anweisungen. Zyla unterstützt derzeit nur den Chrome-Browser. Die Erweiterung ist leichtgewichtig und verlangsamt Ihr Browser-Erlebnis nicht."
+      },
+      {
+        "question": "Kann ich Zyla offline nutzen?",
+        "answer": "Derzeit unterstützt Zyla keine Offline-Übersetzungen, da für den Zugriff auf unsere KI-Übersetzungsmodelle eine Internetverbindung erforderlich ist. Wir arbeiten an Offline-Funktionen für häufig genutzte Sprachen. Bleiben Sie für Updates dran!"
+      },
+      {
+        "question": "Funktioniert Zyla auf mobilen Geräten?",
+        "answer": "Zyla ist hauptsächlich für Desktop-Browser konzipiert, aber wir entwickeln mobile Apps für iOS und Android. In der Zwischenzeit können Sie Zyla im mobilen Browser nutzen, aber das Erlebnis ist für Desktop optimiert."
+      },
+      {
+        "question": "Wie genau sind die Übersetzungen?",
+        "answer": "Zyla liefert dank modernster KI-Übersetzungsmodelle sehr genaue Übersetzungen. Je nach Kontext und Komplexität der Sprache können jedoch manchmal Nuancen verloren gehen."
+      }
+    ]
+  },
+  "footer": {
+    "terms": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "openSource": "Open Source auf GitHub"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "description": "Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie die Übersetzungsdienste von Zyla nutzen.",
+    "lastUpdated": "Letzte Aktualisierung: 15. Oktober 2025",
+    "importantNotice": {
+      "title": "Wichtiger Hinweis",
+      "content": "Durch die Nutzung von Zyla akzeptieren Sie diese Bedingungen vollständig. Wenn Sie nicht einverstanden sind, nutzen Sie unseren Dienst bitte nicht. Wir empfehlen, dieses Dokument vollständig zu lesen, um Ihre Rechte und Pflichten zu verstehen."
+    },
+    "sections": [
+      {
+        "title": "Akzeptanz der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung der Übersetzungsdienste von Zyla bestätigen Sie, dass Sie diese Nutzungsbedingungen gelesen, verstanden und akzeptiert haben. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, sollten Sie unseren Dienst sofort nicht mehr nutzen.",
+        "subsections": [
+          {
+            "subtitle": "Rechtlicher Vertrag",
+            "text": "Diese Bedingungen stellen einen rechtlich bindenden Vertrag zwischen Ihnen und Zyla dar. Die fortgesetzte Nutzung des Dienstes bedeutet die fortlaufende Akzeptanz dieser Bedingungen und zukünftiger Änderungen."
+          },
+          {
+            "subtitle": "Berechtigung",
+            "text": "Sie müssen mindestens 13 Jahre alt sein, um Zyla nutzen zu können. Wenn Sie unter 18 sind, benötigen Sie die Zustimmung eines Elternteils oder gesetzlichen Vertreters. Durch die Nutzung unseres Dienstes bestätigen Sie, dass Sie diese Altersanforderungen erfüllen."
+          },
+          {
+            "subtitle": "Open-Source-Projekt",
+            "text": "Zyla ist ein Open-Source-Projekt. Der Quellcode ist öffentlich auf GitHub verfügbar. Bitte beachten Sie, dass es sich um ein Community-basiertes Projekt handelt und Beiträge willkommen sind."
+          }
+        ]
+      },
+      {
+        "title": "Dienstbeschreibung",
+        "content": "Zyla bietet KI-gestützte Übersetzungsdienste über eine Browser-Erweiterung und eine Webplattform an. Unser Dienst soll Nutzern helfen, Texte schnell und genau in mehreren Sprachen zu übersetzen.",
+        "subsections": [
+          {
+            "subtitle": "Dienstmerkmale",
+            "text": "Wir bieten Sofortübersetzung von Texten, Unterstützung für über 100 Sprachen, Integration der Browser-Erweiterung und KI-gestützte Übersetzungstechnologie. Funktionen können nach unserem Ermessen hinzugefügt, geändert oder entfernt werden."
+          },
+          {
+            "subtitle": "Verfügbarkeit des Dienstes",
+            "text": "Wir bemühen uns um eine kontinuierliche Verfügbarkeit des Dienstes, garantieren jedoch keinen unterbrechungsfreien Zugang. Geplante Wartungen, technische Probleme oder unvorhergesehene Umstände können zu vorübergehenden Unterbrechungen führen."
+          },
+          {
+            "subtitle": "Übersetzungsgenauigkeit",
+            "text": "Unsere KI-gestützten Übersetzungen streben hohe Genauigkeit an, sind aber nicht perfekt. Nutzer sollten kritische Übersetzungen von professionellen menschlichen Übersetzern überprüfen lassen. Wir garantieren keine 100%ige Genauigkeit für alle Übersetzungen."
+          },
+          {
+            "subtitle": "Keine Datenspeicherung",
+            "text": "Zyla speichert keine Nutzerdaten, Übersetzungsinhalte oder persönlichen Informationen. Alle Übersetzungen werden in Echtzeit verarbeitet und nicht auf unseren Servern gespeichert."
+          }
+        ]
+      },
+      {
+        "title": "Pflichten der Nutzer",
+        "content": "Als Nutzer von Zyla sind Sie für Ihr Verhalten und die von Ihnen übersetzten Inhalte verantwortlich. Sie müssen den Dienst in Übereinstimmung mit allen geltenden Gesetzen und Vorschriften nutzen.",
+        "subsections": [
+          {
+            "subtitle": "Verbotene Inhalte",
+            "text": "Sie dürfen Zyla nicht verwenden, um illegale, schädliche, bedrohliche, belästigende, beleidigende, vulgäre, obszöne oder anderweitig anstößige Inhalte zu übersetzen. Dazu gehören unter anderem Hassrede, Materialien zum Kindesmissbrauch oder Inhalte, die Gewalt fördern."
+          },
+          {
+            "subtitle": "Zulässige Nutzung",
+            "text": "Sie erklären sich damit einverstanden, Zyla nur für legale Zwecke zu nutzen und die Rechte anderer nicht zu verletzen oder deren Nutzung und Freude am Dienst einzuschränken. Sie dürfen unsere Infrastruktur nicht stören, beeinträchtigen oder überlasten."
+          },
+          {
+            "subtitle": "Open-Source-Beiträge",
+            "text": "Als Open-Source-Projekt sind Beiträge aus der Community willkommen. Beitragende sind jedoch dafür verantwortlich, dass ihre Beiträge diesen Bedingungen und geltenden Gesetzen entsprechen."
+          }
+        ]
+      },
+      {
+        "title": "Geistige Eigentumsrechte",
+        "content": "Alle geistigen Eigentumsrechte an Zyla, einschließlich Software, Design, Marken und Inhalte, gehören Zyla oder unseren Lizenzgebern. Diese Bedingungen gewähren Ihnen keine Eigentumsrechte.",
+        "subsections": [
+          {
+            "subtitle": "Ihre Inhalte",
+            "text": "Sie behalten alle Rechte an den Texten, die Sie zur Übersetzung einreichen. Durch die Nutzung unseres Dienstes gewähren Sie uns eine eingeschränkte, nicht-exklusive Lizenz, Ihre Inhalte ausschließlich zum Zweck der Übersetzungsdienste zu verarbeiten."
+          },
+          {
+            "subtitle": "Unsere Inhalte",
+            "text": "Der Name Zyla, das Logo, das Design, die Funktionalität und alle zugehörigen Marken sind unser ausschließliches Eigentum. Sie dürfen unser geistiges Eigentum ohne ausdrückliche schriftliche Genehmigung nicht verwenden, kopieren oder verbreiten."
+          },
+          {
+            "subtitle": "Open-Source-Lizenz",
+            "text": "Der Quellcode von Zyla ist unter einer Open-Source-Lizenz verfügbar. Sie können den Quellcode gemäß den geltenden Lizenzbedingungen verwenden, ändern und verbreiten, dürfen jedoch unsere Marken oder unser Branding nicht ohne Genehmigung verwenden."
+          }
+        ]
+      },
+      {
+        "title": "Datenschutz und Datenschutz",
+        "content": "Ihre Privatsphäre ist uns wichtig. Wir verpflichten uns, Ihre persönlichen Daten zu schützen und Transparenz über unsere Datenpraktiken zu gewährleisten. Weitere Informationen finden Sie in unserer Datenschutzrichtlinie.",
+        "subsections": [
+          {
+            "subtitle": "Keine Datenerhebung",
+            "text": "Zyla erhebt, speichert oder verarbeitet keine personenbezogenen Daten. Wir verwenden keine Cookies, Tracking-Pixel oder andere Datenerfassungsmechanismen. Ihre Übersetzungen werden in Echtzeit verarbeitet und sofort verworfen."
+          },
+          {
+            "subtitle": "Kein Nutzerkonto",
+            "text": "Zyla erfordert oder speichert keine Nutzerkonten. Sie können unseren Dienst anonym nutzen, ohne persönliche Informationen bereitzustellen."
+          },
+          {
+            "subtitle": "Drittanbieterdienste",
+            "text": "Unser Dienst kann mit KI-Übersetzungsanbietern von Drittanbietern integriert werden. Bitte lesen Sie deren Datenschutzrichtlinien, um zu erfahren, wie Ihre Daten verarbeitet werden."
+          }
+        ]
+      },
+      {
+        "title": "Haftungsbeschränkung",
+        "content": "Zyla wird wie gesehen und wie verfügbar bereitgestellt. Wir geben keine ausdrücklichen oder stillschweigenden Garantien hinsichtlich der Zuverlässigkeit, Genauigkeit oder Eignung des Dienstes für einen bestimmten Zweck.",
+        "subsections": [
+          {
+            "subtitle": "Keine Garantie",
+            "text": "Wir garantieren nicht, dass der Dienst ununterbrochen, fehlerfrei oder vollständig sicher ist. Soweit gesetzlich zulässig, lehnen wir alle Garantien ab."
+          },
+          {
+            "subtitle": "Haftungsbegrenzung",
+            "text": "Zyla haftet in keinem Fall für indirekte, zufällige, besondere, Folge- oder Strafschäden, die sich aus Ihrer Nutzung des Dienstes ergeben, selbst wenn wir auf die Möglichkeit solcher Schäden hingewiesen wurden."
+          },
+          {
+            "subtitle": "Maximale Haftung",
+            "text": "Unsere Gesamthaftung für alle Ansprüche aus Ihrer Nutzung des Dienstes übersteigt nicht 100 US-Dollar. Diese Begrenzung gilt unabhängig von der rechtlichen Grundlage des Anspruchs."
+          },
+          {
+            "subtitle": "Open-Source-Haftungsausschluss",
+            "text": "Als Open-Source-Projekt wird Zyla ohne kommerzielle Support-Garantien bereitgestellt. Beitragende und Maintainer haften nicht für Schäden, die durch die Nutzung dieser Software entstehen."
+          }
+        ]
+      },
+      {
+        "title": "Kündigung und Sperrung",
+        "content": "Wir behalten uns das Recht vor, Ihren Zugang zu Zyla jederzeit, mit oder ohne Vorankündigung, aus beliebigem Grund zu sperren oder zu kündigen.",
+        "subsections": [
+          {
+            "subtitle": "Vom Nutzer initiierte Kündigung",
+            "text": "Sie können Zyla jederzeit beenden, indem Sie unsere Browser-Erweiterung entfernen und die Nutzung unserer Webplattform einstellen. Da wir keine Nutzerdaten speichern, ist eine Kontolöschung nicht erforderlich."
+          },
+          {
+            "subtitle": "Vom Unternehmen initiierte Kündigung",
+            "text": "Wenn Sie gegen diese Bedingungen verstoßen, illegale Aktivitäten ausüben oder aus anderen Gründen nach unserem Ermessen, können wir Ihren Zugang sofort kündigen oder sperren. Wir haften nicht für Folgen einer solchen Kündigung."
+          },
+          {
+            "subtitle": "Auswirkungen der Kündigung",
+            "text": "Mit der Kündigung erlischt Ihr Recht zur Nutzung des Dienstes sofort. Bestimmungen zu geistigem Eigentum, Haftungsbeschränkung und Streitbeilegung bleiben auch nach der Kündigung gültig."
+          }
+        ]
+      },
+      {
+        "title": "Änderungen der Bedingungen",
+        "content": "Wir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern. Wesentliche Änderungen werden den Nutzern über unsere Webseite oder das GitHub-Repository mitgeteilt. Die weitere Nutzung nach Änderungen gilt als Zustimmung.",
+        "subsections": [
+          {
+            "subtitle": "Benachrichtigungsverfahren",
+            "text": "Wesentliche Änderungen dieser Bedingungen werden mindestens 30 Tage vor Inkrafttreten über unsere Webseite, das GitHub-Repository oder eine auffällige Mitteilung im Dienst bekannt gegeben."
+          },
+          {
+            "subtitle": "Ihre Optionen",
+            "text": "Wenn Sie mit den geänderten Bedingungen nicht einverstanden sind, sollten Sie Zyla vor Inkrafttreten der Änderungen nicht mehr nutzen. Die weitere Nutzung nach dem Stichtag gilt als Zustimmung zu den aktualisierten Bedingungen."
+          },
+          {
+            "subtitle": "Open-Source-Transparenz",
+            "text": "Als Open-Source-Projekt werden alle Änderungen dieser Bedingungen in unserem GitHub-Repository dokumentiert und die Community kann die Updates einsehen und dazu beitragen."
+          }
+        ]
+      },
+      {
+        "title": "Streitbeilegung",
+        "content": "Streitigkeiten, die sich aus diesen Bedingungen oder Ihrer Nutzung von Zyla ergeben, werden, sofern gesetzlich zulässig, durch verbindliche Schiedsverfahren beigelegt.",
+        "subsections": [
+          {
+            "subtitle": "Anwendbares Recht",
+            "text": "Diese Bedingungen unterliegen den Gesetzen des Gerichtsstands, in dem Zyla registriert ist, unabhängig von kollidierenden Rechtsgrundsätzen."
+          },
+          {
+            "subtitle": "Schiedsvereinbarung",
+            "text": "Sie stimmen zu, Streitigkeiten durch individuelles Schiedsverfahren statt Sammelklagen beizulegen. Das Schiedsverfahren wird von einem neutralen Schiedsrichter gemäß den geltenden Schiedsregeln durchgeführt."
+          },
+          {
+            "subtitle": "Ausnahmen",
+            "text": "Beide Parteien können bei Streitigkeiten über geistiges Eigentum einstweiligen Rechtsschutz vor Gericht beantragen oder Schiedsvereinbarungen durchsetzen. Verfahren vor dem Amtsgericht sind ebenfalls zulässig."
+          }
+        ]
+      },
+      {
+        "title": "Kontaktinformationen",
+        "content": "Wenn Sie allgemeine Fragen, Anliegen oder Feedback zu diesen Nutzungsbedingungen oder unserem Dienst haben, helfen wir Ihnen gerne weiter. Ihre Privatsphäre ist uns wichtig.",
+        "subsections": [
+          {
+            "subtitle": "Support-Kanäle",
+            "text": "Sie können unser Support-Team per E-Mail, Kontaktformular auf der Webseite oder über das offizielle GitHub-Repository erreichen. Wir bemühen uns, alle Anfragen innerhalb von 48 Stunden zu beantworten."
+          },
+          {
+            "subtitle": "Rechtliche Mitteilungen",
+            "text": "Für rechtliche Mitteilungen oder offizielle Kommunikation senden Sie diese bitte an unsere registrierte Geschäftsadresse. Alle rechtlichen Mitteilungen müssen schriftlich und per Einschreiben oder E-Mail zugestellt werden."
+          },
+          {
+            "subtitle": "Open-Source-Community",
+            "text": "Als Open-Source-Projekt fördern wir die Beteiligung der Community. Sie können zum Projekt beitragen, Probleme melden oder Verbesserungen über das GitHub-Repository vorschlagen."
+          }
+        ]
+      }
+    ],
+    "questions": {
+      "title": "Haben Sie Fragen zu unseren Bedingungen?",
+      "content": "Wenn Sie Fragen oder Bedenken zu diesen Nutzungsbedingungen haben, helfen wir Ihnen gerne weiter. Zögern Sie nicht, unser Support-Team zu kontaktieren.",
+      "contactSupport": "Support kontaktieren",
+      "privacyPolicy": "Datenschutzrichtlinie"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "description": "Wir sammeln fast keine Daten. Ihre Privatsphäre ist durch Design geschützt.",
+    "lastUpdated": "Letzte Aktualisierung:",
+    "importantNotice": {
+      "title": "Datenschutz durch Design",
+      "content": "Zyla wurde mit Privatsphäre als Grundprinzip entwickelt. Wir sammeln fast keine Daten, verwenden kein Tracking und unser Open-Source-Code sorgt für vollständige Transparenz. Ihre Übersetzungen bleiben vertraulich."
+    },
+    "sections": [
+      {
+        "title": "Einleitung",
+        "content": "Datenschutz hat bei Zyla oberste Priorität. Als Open-Source-Übersetzungstool setzen wir auf Transparenz und minimale Datenerhebung. Diese Datenschutzrichtlinie erklärt unseren einfachen Ansatz zur Datenverarbeitung.",
+        "subsections": [
+          {
+            "subtitle": "Open-Source-Transparenz",
+            "text": "Unser Quellcode ist öffentlich auf GitHub verfügbar. Sie können unsere Datenschutzpraktiken vollständig einsehen, indem Sie unsere Datenverarbeitung überprüfen."
+          },
+          {
+            "subtitle": "Keine Erhebung personenbezogener Daten",
+            "text": "Zyla sammelt, speichert oder verarbeitet keine personenbezogenen Informationen. Sie können unseren Dienst vollständig anonym nutzen."
+          }
+        ]
+      },
+      {
+        "title": "Welche Daten sammeln wir?",
+        "content": "Wir sammeln fast keine Daten. Unser Dienst ist so konzipiert, dass er so datenschutzfreundlich wie möglich ist.",
+        "subsections": [
+          {
+            "subtitle": "Übersetzungsverarbeitung",
+            "text": "Die Texte, die Sie zur Übersetzung senden, werden von Drittanbieter-KI-Diensten in Echtzeit verarbeitet und sofort verworfen. Wir speichern Ihre Übersetzungen nicht."
+          },
+          {
+            "subtitle": "Minimale technische Daten",
+            "text": "Grundlegende technische Informationen (IP-Adresse, Browsertyp) können vorübergehend für 30 Tage zur Fehlerbehebung und Leistungsüberwachung gespeichert werden."
+          },
+          {
+            "subtitle": "Keine Cookies oder Tracking",
+            "text": "Wir verwenden keine Cookies, Tracking-Pixel, Web-Beacons oder andere Tracking-Technologien. Es werden keine Browserverläufe oder Nutzungsmuster gesammelt."
+          },
+          {
+            "subtitle": "Kein Nutzerkonto",
+            "text": "Zyla erfordert keine Registrierung, kein Konto oder irgendeine Nutzeridentifikation. Sie bleiben vollständig anonym."
+          }
+        ]
+      },
+      {
+        "title": "Wie verwenden wir die Daten?",
+        "content": "Alle vorübergehend verarbeiteten Daten werden ausschließlich zur Bereitstellung von Übersetzungsdiensten und zur grundlegenden Wartung des Dienstes verwendet.",
+        "subsections": [
+          {
+            "subtitle": "Dienstbetrieb",
+            "text": "Technische Logs helfen uns, Fehler zu erkennen, die Leistung zu optimieren und einen reibungslosen Betrieb für alle Nutzer sicherzustellen."
+          },
+          {
+            "subtitle": "Keine Werbung oder Verkauf",
+            "text": "Wir verwenden Daten nicht für Marketing, Werbung oder kommerzielle Zwecke. Wir verkaufen oder teilen Daten nicht mit Dritten."
+          },
+          {
+            "subtitle": "Open-Source-Entwicklung",
+            "text": "Als Open-Source-Projekt können wir anonymisierte technische Informationen mit Beitragenden teilen, um den Dienst zu verbessern."
+          }
+        ]
+      },
+      {
+        "title": "Datenweitergabe",
+        "content": "Wir geben Ihre Daten nicht an Dritte weiter, außer in sehr begrenzten Fällen, die gesetzlich vorgeschrieben sind.",
+        "subsections": [
+          {
+            "subtitle": "Drittanbieter-KI-Dienste",
+            "text": "Übersetzungsanfragen werden von externen KI-Anbietern verarbeitet. Ihr Text wird diesen Diensten vorübergehend übermittelt und von uns nicht gespeichert."
+          },
+          {
+            "subtitle": "Nur gesetzliche Anforderungen",
+            "text": "Wir können Informationen offenlegen, wenn dies gesetzlich vorgeschrieben ist, z.B. durch Gerichtsbeschluss, Vorladung oder behördliche Anfrage. Dies ist äußerst selten."
+          },
+          {
+            "subtitle": "Keine freiwillige Weitergabe",
+            "text": "Wir teilen, verkaufen, vermieten oder tauschen Daten nicht freiwillig mit Dritten für irgendeinen Zweck."
+          }
+        ]
+      },
+      {
+        "title": "Datensicherheit",
+        "content": "Sicherheit ist Teil unseres Designs. Da wir nur minimale Daten sammeln, ist das Risiko eines Datenschutzverstoßes sehr gering.",
+        "subsections": [
+          {
+            "subtitle": "Datenminimierung",
+            "text": "Durch die fast vollständige Vermeidung von Datenerhebung beseitigen wir die meisten Datenschutzrisiken. Übersetzungsdaten werden verarbeitet und sofort verworfen."
+          },
+          {
+            "subtitle": "Open-Source-Sicherheit",
+            "text": "Unser Code kann von jedem öffentlich geprüft werden. Sicherheitsforscher und die Community können potenzielle Schwachstellen identifizieren und beheben."
+          },
+          {
+            "subtitle": "HTTPS-Verschlüsselung",
+            "text": "Alle Kommunikation mit unserem Dienst erfolgt über HTTPS-Verschlüsselung, um Daten während der Übertragung zu schützen."
+          }
+        ]
+      },
+      {
+        "title": "Datenspeicherung",
+        "content": "Wir speichern Daten nur für die minimale erforderliche Dauer und löschen sie automatisch.",
+        "subsections": [
+          {
+            "subtitle": "Übersetzungsdaten",
+            "text": "Die zur Übersetzung gesendeten Texte werden in Echtzeit verarbeitet und sofort gelöscht. Es werden keine Übersetzungen gespeichert."
+          },
+          {
+            "subtitle": "Technische Logs",
+            "text": "Vorübergehende technische Logs werden, falls vorhanden, innerhalb von 30 Tagen automatisch gelöscht."
+          },
+          {
+            "subtitle": "Keine langfristige Speicherung",
+            "text": "Wir speichern keine Nutzerdaten, Profile oder Verlaufsinformationen in Datenbanken."
+          }
+        ]
+      },
+      {
+        "title": "Ihre Rechte",
+        "content": "Da wir fast keine personenbezogenen Daten sammeln, sind die meisten traditionellen Datenschutzrechte für Zyla nicht relevant.",
+        "subsections": [
+          {
+            "subtitle": "Transparenz",
+            "text": "Unser Open-Source-Code ermöglicht Ihnen vollständige Einsicht, wie wir Daten verarbeiten. Es gibt keine versteckten Datenerhebungspraktiken."
+          },
+          {
+            "subtitle": "Kontrolle",
+            "text": "Sie haben die volle Kontrolle über Ihre Daten. Um jegliche Datenverarbeitung zu stoppen, genügt es, den Dienst nicht mehr zu nutzen."
+          },
+          {
+            "subtitle": "Keine zu löschenden Daten",
+            "text": "Da wir keine personenbezogenen Daten speichern, ist eine Datenlöschung nicht erforderlich."
+          }
+        ]
+      },
+      {
+        "title": "Kontakt",
+        "content": "Haben Sie Fragen zum Datenschutz? Wir sind transparent über unsere Praktiken und helfen Ihnen gerne weiter.",
+        "subsections": [
+          {
+            "subtitle": "Datenschutzfragen",
+            "text": "Für Datenschutzfragen senden Sie uns eine E-Mail an privacy@getzyla.xyz. Wir antworten auf alle Anfragen innerhalb von 48 Stunden."
+          },
+          {
+            "subtitle": "GitHub-Repository",
+            "text": "Als Open-Source-Projekt können Sie uns auch über unser GitHub-Repository erreichen und an Diskussionen teilnehmen."
+          },
+          {
+            "subtitle": "Community",
+            "text": "Beteiligen Sie sich an unseren Community-Diskussionen auf GitHub und erfahren Sie mehr über unsere Datenschutzpraktiken."
+          }
+        ]
+      }
+    ],
+    "questions": {
+      "title": "Haben Sie Fragen zum Datenschutz?",
+      "content": "Haben Sie Fragen zu unseren Datenschutzpraktiken? Wir sind transparent und helfen Ihnen gerne weiter.",
+      "contactUs": "Kontaktieren Sie uns",
+      "viewSourceCode": "Quellcode anzeigen"
+    }
+  },
+  "tooltips": {
+    "soon": "Kommt bald"
+  }
+}

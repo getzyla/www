@@ -1,0 +1,517 @@
+{
+  "navbar": {
+    "extensionButton": "Eklentiyi Yükle",
+    "settingsDialog": {
+      "title": "Ayarlar",
+      "description": "Zyla'yı ihtiyaçlarınıza göre özelleştirin.",
+      "languageLabel": "Dil"
+    }
+  },
+  "hero": {
+    "title": "Herkes için yapay zekâ destekli anında çeviri",
+    "description": "Web’deki herhangi bir metni tek tıkla, anında ve zahmetsizce çevirin. İster işiniz için ister günlük hayatta olsun, metinleri anlamak artık çok daha kolay ve erişilebilir."
+  },
+  "translateSection": {
+    "textToTranslate": "Çevrilecek Metin",
+    "selectSourceLanguage": "Kaynak dili seçin",
+    "selectTargetLanguage": "Hedef dili seçin",
+    "placeholder": "Çevirmek için metni buraya girin veya yapıştırın...",
+    "clear": "Temizle",
+    "translating": "Çevriliyor...",
+    "translate": "Çevir",
+    "translationResult": "Çeviri Sonucu",
+    "copied": "Kopyalandı",
+    "copy": "Kopyala",
+    "translationFailed": "Çeviri başarısız oldu. Lütfen tekrar deneyin.",
+    "characters": "karakter"
+  },
+  "why": {
+    "title": "Neden Zyla?",
+    "description": "Çünkü Zyla, çeviriyi herkes için çaba gerektirmeyen ve erişilebilir hale getirecek şekilde tasarlandı.",
+    "features": {
+      "free": {
+        "title": "Ücretsiz",
+        "description": "Zyla'yı ücretsiz kullanın. Gizli ücretler veya para yatırmanızı gerektirecek hiçbir şey yok."
+      },
+      "unlimited": {
+        "title": "Sınırsız",
+        "description": "Zyla ile istediğiniz kadar çeviri yapın. Günlük veya aylık sınırlar yok, en iyisi de karakter sınırı yok."
+      },
+      "fast": {
+        "title": "Hızlı",
+        "description": "Zyla çevirilerinizi anında sağlar. Uzun metinler için bile beklemenize gerek yok."
+      },
+      "easyToUse": {
+        "title": "Kolay Kullanım",
+        "description": "Zyla'nın kullanıcı dostu arayüzü sayesinde çeviri yapmak çok kolay. Sadece metninizi yapıştırın ve çeviriyi alın."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Kullanıcılarımız Ne Diyor",
+    "description": "Zyla'yı tercih ettikleri çeviri aracı yapan binlerce memnun kullanıcıya katılın.",
+    "stats": {
+      "activeUsers": "Aktif Kullanıcı",
+      "translations": "Çeviri",
+      "rating": "Puan"
+    },
+    "items": [
+      {
+        "name": "Sophia Turner",
+        "avatar": "ST",
+        "rating": 5,
+        "comment": "Zyla, uluslararası projeleri nasıl ele aldığımda büyük bir fark yarattı. Çeviriler hızlı ve şaşırtıcı derecede doğru. Artık neredeyse her gün kullanıyorum."
+      },
+      {
+        "name": "Daniel Romero",
+        "avatar": "DR",
+        "rating": 4,
+        "comment": "Ücretsiz bir şey için oldukça sağlam bir araç. Bazen karmaşık metinlerde nüans biraz kayboluyor, ama genel olarak gerçekten yardımcı."
+      },
+      {
+        "name": "Emily Zhao",
+        "avatar": "EZ",
+        "rating": 5,
+        "comment": "Çok dilli pazarlama çabalarımız için Zyla'ya güveniriz. Geleneksel çeviri hizmetlerine kıyasla bize çok zaman ve para kazandırıyor."
+      },
+      {
+        "name": "Liam Bennett",
+        "avatar": "LB",
+        "rating": 4,
+        "comment": "Teknik belgeleri farklı dillerde okumak için Zyla kullanıyorum. Mükemmel değil, ama içeriği hızlı bir şekilde anlamak için fazlasıyla yeterli."
+      },
+      {
+        "name": "Natalie Singh",
+        "avatar": "NS",
+        "rating": 5,
+        "comment": "Uluslararası müşterilerle çalışmak eskiden bir baş ağrısıydı. Zyla ile e-postaları ve mesajları anında çevirebiliyorum. Gerçek bir hayat kurtarıcı oldu!"
+      },
+      {
+        "name": "Omar El-Sayed",
+        "avatar": "OES",
+        "rating": 4,
+        "comment": "Destek ekibimiz müşteri mesajlarını farklı dillerde işlemek için Zyla kullanıyor. Hızlı ve çoğunlukla doğru, ancak daha fazla biçimlendirme seçeneği olmasını isterdim."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sorularınız mı Var? Cevaplarımız Hazır",
+    "description": "Zyla hakkında bilmeniz gereken her şey.",
+    "items": [
+      {
+        "question": "Zyla nedir?",
+        "answer": "Zyla, doğrudan web sayfalarında çalışan yapay zeka destekli anında çeviri aracıdır. Tek bir tıklamayla internetteki herhangi bir metni anında çevirebilir, diller arası iletişimi zahmetsiz ve herkes için erişilebilir hale getirebilirsiniz."
+      },
+      {
+        "question": "Zyla'yı nasıl kullanırım?",
+        "answer": "Zyla'yı kullanmak inanılmaz derecede basit! Sadece tarayıcı eklentimizi yükleyin, ardından herhangi bir web sitesindeki metni işaretleyin ve çevir düğmesine tıklayın. Çeviri, sayfadan ayrılmadan veya yeni sekmeler açmadan anında görünür."
+      },
+      {
+        "question": "Zyla gerçekten ücretsiz mi?",
+        "answer": "Evet! Zyla tamamen ücretsiz kullanılabilir. Gizli ücretler, premium abonelikler ve karakter sınırları yok. Çeviriyi herkese, her yerde, hiçbir engel olmadan erişilebilir kılmaya inanıyoruz."
+      },
+      {
+        "question": "Zyla hangi dilleri destekliyor?",
+        "answer": "Zyla, İngilizce, İspanyolca, Fransızca, Almanca, Çince, Japonca, Arapça, Rusça, Portekizce, İtalyanca, Hollandaca, Korece, Türkçe ve daha pek çok dil olmak üzere 100'den fazla dili desteklemektedir. Küresel iletişimi daha da kolaylaştırmak için sürekli olarak yeni diller ekliyoruz."
+      },
+      {
+        "question": "Çeviri ne kadar hızlı?",
+        "answer": "Şimşek hızında! Zyla milisaniyeler içinde anında çeviriler sağlar. Bekleme yok, yükleme ekranı yok - sadece işaretleyin ve çevirin. Gerçek zamanlı konuşmalar, yabancı içerik okuma veya uluslararası ekiplerle çalışma için mükemmel."
+      },
+      {
+        "question": "Verilerim Zyla ile güvende mi?",
+        "answer": "Kesinlikle! Zyla gizliliği ciddiye alır. Çevirilerinizi saklamıyoruz, tarayıcı alışkanlıklarınızı takip etmiyoruz ve hiçbir veriyi üçüncü taraflarla paylaşmıyoruz. Tüm çeviriler maksimum gizlilik ve güvenlik için tarayıcınızda yerel olarak gerçekleşir."
+      },
+      {
+        "question": "Zyla eklentisini nasıl yüklerim?",
+        "answer": "Kurulum hızlı ve kolay! Web sitemizi ziyaret edin, 'Eklentiyi Al' düğmesine tıklayın ve Chrome tarayıcı istemlerini takip edin. Zyla şu anda yalnızca Chrome tarayıcısını desteklemektedir. Eklenti hafiftir ve tarayıcı deneyiminizi yavaşlatmaz."
+      },
+      {
+        "question": "Zyla'yı çevrimdışı kullanabilir miyim?",
+        "answer": "Şu anda Zyla, yapay zeka çeviri modellerimize erişmek için internet bağlantısı gerektirdiğinden çevrimdışı çevirileri desteklememektedir. Sık kullanılan diller için çevrimdışı yetenekler üzerinde çalışıyoruz. Güncellemeler için bizi takip edin!"
+      },
+      {
+        "question": "Zyla mobil cihazlarda çalışır mı?",
+        "answer": "Zyla öncelikle masaüstü tarayıcılar için tasarlanmıştır, ancak iOS ve Android için mobil uygulamalar geliştiriyoruz. Bu arada, Zyla'yı mobil tarayıcılarda kullanabilirsiniz, ancak deneyim masaüstü kullanım için optimize edilmiştir."
+      },
+      {
+        "question": "Çeviriler ne kadar doğru?",
+        "answer": "Zyla, son teknoloji yapay zeka çeviri modelleri kullanarak oldukça doğru çeviriler sağlar. Ancak, bağlama ve dilin karmaşıklığına bağlı olarak bazen nüanslar kaybolabilir."
+      }
+    ]
+  },
+  "footer": {
+    "terms": "Şartlar",
+    "privacyPolicy": "Gizlilik Politikası",
+    "openSource": "GitHub'da açık kaynak"
+  },
+  "terms": {
+    "title": "Kullanım Şartları",
+    "description": "Zyla'nın çeviri hizmetlerini kullanmadan önce lütfen bu şartları dikkatlice okuyun.",
+    "lastUpdated": "Son güncelleme: 15 Ekim 2025",
+    "importantNotice": {
+      "title": "Önemli Uyarı",
+      "content": "Zyla'yı kullanarak bu şartların tamamını kabul etmiş olursunuz. Kabul etmiyorsanız lütfen hizmetimizi kullanmayın. Haklarınızı ve yükümlülüklerinizi anlamak için bu belgeyi tamamen okumanızı öneririz."
+    },
+    "sections": [
+      {
+        "title": "Şartların Kabulü",
+        "content": "Zyla'nın çeviri hizmetlerine erişerek ve kullanarak, bu Kullanım Şartlarını okuduğunuzu, anladığınızı ve bunlarla bağlı olmayı kabul ettiğinizi onaylarsınız. Bu şartların herhangi bir kısmını kabul etmiyorsanız, hizmetimizi kullanmayı derhal bırakmalısınız.",
+        "subsections": [
+          {
+            "subtitle": "Yasal Sözleşme",
+            "text": "Bu şartlar siz ve Zyla arasında yasal olarak bağlayıcı bir sözleşme oluşturur. Hizmeti kullanmaya devam etmeniz, bu şartların ve gelecekteki değişikliklerin sürekli kabulü anlamına gelir."
+          },
+          {
+            "subtitle": "Uygunluk",
+            "text": "Zyla'yı kullanabilmek için en az 13 yaşında olmalısınız. 18 yaşından küçükseniz, veli veya yasal vasinizin iznine sahip olmalısınız. Hizmetimizi kullanarak bu yaş gerekliliklerini karşıladığınızı beyan edersiniz."
+          },
+          {
+            "subtitle": "Açık Kaynak Proje",
+            "text": "Zyla açık kaynaklı bir projedir. Kaynak kodu GitHub'da herkese açık olarak mevcuttur. Hizmeti sağlarken, bu topluluk odaklı bir proje olduğunu ve katkıları teşvik ettiğimizi unutmamalısınız."
+          }
+        ]
+      },
+      {
+        "title": "Hizmet Açıklaması",
+        "content": "Zyla, tarayıcı uzantısı ve web platformu aracılığıyla yapay zeka destekli çeviri hizmetleri sağlar. Hizmetimiz, kullanıcıların metinleri birden fazla dilde hızlı ve doğru şekilde çevirmelerine yardımcı olmak için tasarlanmıştır.",
+        "subsections": [
+          {
+            "subtitle": "Hizmet Özellikleri",
+            "text": "Anında metin çevirisi, 100'den fazla dil desteği, tarayıcı uzantısı entegrasyonu ve yapay zeka destekli çeviri teknolojisi sağlıyoruz. Özellikler, takdirimize bağlı olarak eklenebilir, değiştirilebilir veya kaldırılabilir."
+          },
+          {
+            "subtitle": "Hizmet Kullanılabilirliği",
+            "text": "Sürekli hizmet kullanılabilirliği sağlamaya çalışsak da, kesintisiz erişimi garanti etmiyoruz. Planlı bakım, teknik sorunlar veya öngörülemeyen durumlar geçici hizmet kesintilerine neden olabilir."
+          },
+          {
+            "subtitle": "Çeviri Doğruluğu",
+            "text": "Yapay zeka destekli çevirilerimiz yüksek doğruluk hedefler ancak mükemmel değildir. Kullanıcılar kritik çevirileri profesyonel insan çevirmenlerle doğrulamalıdır. Tüm çeviriler için %100 doğruluk garantisi vermiyoruz."
+          },
+          {
+            "subtitle": "Veri Saklama Yok",
+            "text": "Zyla kullanıcı verilerini, çeviri içeriğini veya kişisel bilgileri saklamaz. Tüm çeviriler gerçek zamanlı olarak işlenir ve sunucularımızda saklanmaz."
+          }
+        ]
+      },
+      {
+        "title": "Kullanıcı Sorumlulukları",
+        "content": "Zyla kullanıcısı olarak, davranışınızdan ve çevirdiğiniz içerikten sorumlusunuz. Hizmeti tüm geçerli yasalara ve düzenlemelere uygun şekilde kullanmalısınız.",
+        "subsections": [
+          {
+            "subtitle": "Yasak İçerik",
+            "text": "Zyla'yı yasa dışı, zararlı, tehditkar, taciz edici, hakaret içeren, küfürlü, müstehcen veya başka şekilde itiraz edilebilir içerikleri çevirmek için kullanamazsınız. Bu, nefret söylemi, çocuk istismarı materyalleri veya şiddeti teşvik eden içerikleri içerir ancak bunlarla sınırlı değildir."
+          },
+          {
+            "subtitle": "Kabul Edilebilir Kullanım",
+            "text": "Zyla'yı yalnızca yasal amaçlar için kullanmayı ve başkalarının haklarını ihlal etmemeyi veya hizmetin kullanımını ve keyfini kısıtlamamayı kabul edersiniz. Altyapımıza müdahale etmeye, bozmaya veya aşırı yüklemeye çalışmamalısınız."
+          },
+          {
+            "subtitle": "Açık Kaynak Katkıları",
+            "text": "Açık kaynaklı bir proje olarak topluluk katkıları memnuniyetle karşılanır. Ancak katkıda bulunanlar, katkılarının bu şartlara ve geçerli yasalara uygun olmasını sağlamaktan sorumludur."
+          }
+        ]
+      },
+      {
+        "title": "Fikri Mülkiyet Hakları",
+        "content": "Zyla'daki tüm fikri mülkiyet hakları, yazılım, tasarım, ticari markalar ve içerik dahil olmak üzere Zyla'ya veya lisans verenlerimize aittir. Bu şartlar size herhangi bir mülkiyet hakkı vermez.",
+        "subsections": [
+          {
+            "subtitle": "İçeriğiniz",
+            "text": "Çeviri için gönderdiğiniz metne ilişkin tüm hakları saklarsınız. Hizmetimizi kullanarak, içeriğinizi yalnızca çeviri hizmetleri sağlamak amacıyla işlemek için bize sınırlı, münhasır olmayan bir lisans verirsiniz."
+          },
+          {
+            "subtitle": "İçeriğimiz",
+            "text": "Zyla adı, logosu, tasarımı, işlevselliği ve ilgili tüm ticari markalar münhasır mülkiyetimizdir. Açık yazılı izin olmadan fikri mülkiyetimizin hiçbirini kullanamaz, kopyalayamaz veya dağıtamazsınız."
+          },
+          {
+            "subtitle": "Açık Kaynak Lisansı",
+            "text": "Zyla'nın kaynak kodu açık kaynak lisansı altında mevcuttur. Kaynak kodu geçerli lisans şartlarına uygun olarak kullanabilir, değiştirebilir ve dağıtabilirsiniz, ancak ticari markalarımızı veya markamızı izin olmadan kullanamazsınız."
+          }
+        ]
+      },
+      {
+        "title": "Gizlilik ve Veri Koruma",
+        "content": "Gizliliğiniz bizim için önemlidir. Kişisel bilgilerinizi korumaya ve veri uygulamalarımız konusunda şeffaf olmaya kararlıyız. Detaylı bilgi için lütfen Gizlilik Politikamızı inceleyin.",
+        "subsections": [
+          {
+            "subtitle": "Veri Toplama Yok",
+            "text": "Zyla kişisel verileri toplamaz, saklamaz veya işlemez. Çerez, izleme pikselleri veya başka veri toplama mekanizmaları kullanmayız. Çevirileriniz gerçek zamanlı olarak işlenir ve hemen atılır."
+          },
+          {
+            "subtitle": "Kullanıcı Hesabı Yok",
+            "text": "Zyla kullanıcı hesapları gerektirmez veya saklamaz. Hizmetimizi herhangi bir kişisel bilgi sağlamadan anonim olarak kullanabilirsiniz."
+          },
+          {
+            "subtitle": "Üçüncü Taraf Hizmetleri",
+            "text": "Hizmetimiz üçüncü taraf yapay zeka çeviri sağlayıcılarıyla entegre olabilir. Verilerin nasıl işlendiği hakkında bilgi için lütfen onların gizlilik politikalarını inceleyin."
+          }
+        ]
+      },
+      {
+        "title": "Sorumluluk Sınırlaması",
+        "content": "Zyla olduğu gibi ve mevcut olduğu şekilde sağlanır. Hizmetin güvenilirliği, doğruluğu veya belirli bir amaç için uygunluğu konusunda açık veya zımni hiçbir garanti vermiyoruz.",
+        "subsections": [
+          {
+            "subtitle": "Garanti Yok",
+            "text": "Hizmetin kesintisiz, hatasız veya tamamen güvenli olacağını garanti etmiyoruz. Yasaların izin verdiği en geniş ölçüde tüm garantilerden feragat ederiz."
+          },
+          {
+            "subtitle": "Zarar Sınırlaması",
+            "text": "Hizmetinizin kullanımından kaynaklanan dolaylı, tesadüfi, özel, sonuç veya cezai zararlar için Zyla hiçbir şekilde sorumlu tutulamaz, böyle bir olasılık bize bildirilmiş olsa bile."
+          },
+          {
+            "subtitle": "Maksimum Sorumluluk",
+            "text": "Hizmetinizin kullanımından kaynaklanan tüm talepler için toplam sorumluluğumuz 100 ABD Dolarını aşmayacaktır. Bu sınırlama, talebin dayandığı yasal teori ne olursa olsun geçerlidir."
+          },
+          {
+            "subtitle": "Açık Kaynak Feragati",
+            "text": "Açık kaynaklı bir proje olarak Zyla ticari destek garantileri olmadan sağlanır. Katkıda bulunanlar ve bakımcılar bu yazılımın kullanımından kaynaklanan herhangi bir zarardan sorumlu değildir."
+          }
+        ]
+      },
+      {
+        "title": "Fesih ve Askıya Alma",
+        "content": "Zyla'ya erişiminizi herhangi bir zamanda, bildirimde bulunarak veya bulunmadan, herhangi bir nedenle askıya alma veya feshetme hakkını saklı tutarız.",
+        "subsections": [
+          {
+            "subtitle": "Kullanıcı Tarafından Başlatılan Fesih",
+            "text": "Zyla'yı istediğiniz zaman tarayıcı uzantımızı kaldırarak ve web platformumuzun kullanımını bırakarak durdurabilirsiniz. Kullanıcı verisi saklamadığımız için hesap silme işlemi gerekli değildir."
+          },
+          {
+            "subtitle": "Şirket Tarafından Başlatılan Fesih",
+            "text": "Bu şartları ihlal ederseniz, yasa dışı faaliyetlerde bulunursanız veya başka herhangi bir nedenle takdirimize bağlı olarak erişiminizi derhal feshedebilir veya askıya alabiliriz. Böyle bir fesih sonucu ortaya çıkabilecek hiçbir sonuçtan sorumlu değiliz."
+          },
+          {
+            "subtitle": "Fesih Etkisi",
+            "text": "Fesih üzerine hizmet kullanma hakkınız derhal sona erer. Fikri mülkiyet, sorumluluk sınırlaması ve uyuşmazlık çözümüne ilişkin hükümler fesih sonrasında da geçerliliğini korur."
+          }
+        ]
+      },
+      {
+        "title": "Şartlarda Değişiklikler",
+        "content": "Bu Kullanım Şartlarını istediğimiz zaman değiştirme hakkını saklı tutarız. Önemli değişiklikleri web sitemiz veya GitHub deposu aracılığıyla kullanıcılara bildireceğiz. Değişikliklerden sonraki kullanımınız kabul anlamına gelir.",
+        "subsections": [
+          {
+            "subtitle": "Bildirim Süreci",
+            "text": "Bu şartlardaki önemli değişiklikler, değişikliklerin yürürlüğe girmesinden en az 30 gün önce web sitemiz, GitHub deposu veya hizmetimizde belirgin bir bildirim aracılığıyla iletilecektir."
+          },
+          {
+            "subtitle": "Seçenekleriniz",
+            "text": "Değiştirilmiş şartları kabul etmiyorsanız, değişikliklerin yürürlüğe girmesinden önce Zyla'yı kullanmayı bırakmalısınız. Etkili tarihten sonra hizmet kullanmaya devam etmek güncellenmiş şartları kabul ettiğiniz anlamına gelir."
+          },
+          {
+            "subtitle": "Açık Kaynak Şeffaflığı",
+            "text": "Açık kaynaklı bir proje olarak, bu şartlardaki tüm değişiklikler GitHub deposumuzda takip edilecektir ve topluluğun güncellemeleri inceleyip katkıda bulunmasına izin verecektir."
+          }
+        ]
+      },
+      {
+        "title": "Uyuşmazlık Çözümü",
+        "content": "Bu şartlardan veya Zyla'nın kullanımınızdan kaynaklanan uyuşmazlıklar, yasa tarafından yasaklanmadığı sürece bağlayıcı tahkim yoluyla çözülecektir.",
+        "subsections": [
+          {
+            "subtitle": "Geçerli Yasa",
+            "text": "Bu şartlar, Zyla'nın kayıtlı olduğu yargı alanının yasalarına göre yorumlanacak ve uygulanacaktır, çakışan yasa ilkelerine bakılmaksızın."
+          },
+          {
+            "subtitle": "Tahkim Sözleşmesi",
+            "text": "Uyuşmazlıkları toplu dava yerine bireysel tahkim yoluyla çözmeyi kabul edersiniz. Tahkim tarafsız bir hakem tarafından geçerli tahkim kurallarına uygun olarak yürütülecektir."
+          },
+          {
+            "subtitle": "İstisnalar",
+            "text": "Her iki taraf da fikri mülkiyet uyuşmazlıkları için mahkemede ihtiyati tedbir talebinde bulunabilir veya tahkim anlaşmalarını uygulamak için. Küçük alacak mahkemesi işlemleri de izin verilir."
+          }
+        ]
+      },
+      {
+        "title": "İletişim Bilgileri",
+        "content": "Bu Kullanım Şartları veya hizmetimiz hakkında genel olarak herhangi bir sorunuz, endişeniz veya geri bildiriminiz varsa, yardımcı olmaya hazırız. Gizliliğiniz bizim için önemlidir.",
+        "subsections": [
+          {
+            "subtitle": "Destek Kanalları",
+            "text": "Destek ekibimize e-posta, web sitesi iletişim formu veya resmi GitHub deposu aracılığıyla ulaşabilirsiniz. Tüm sorulara 48 saat içinde yanıt vermeyi hedefliyoruz."
+          },
+          {
+            "subtitle": "Yasal Bildirimler",
+            "text": "Yasal bildirimler veya resmi iletişim için lütfen kayıtlı iş adresimize gönderin. Tüm yasal bildirimler yazılı olmalı ve sertifikalı posta veya e-posta yoluyla teslim edilmelidir."
+          },
+          {
+            "subtitle": "Açık Kaynak Topluluğu",
+            "text": "Açık kaynaklı bir proje olarak topluluk katılımını teşvik ederiz. Projeye katkıda bulunabilir, sorunları bildirebilir veya GitHub deposu aracılığıyla iyileştirmeler önerebilirsiniz."
+          }
+        ]
+      }
+    ],
+    "questions": {
+      "title": "Şartlarımız Hakkında Sorularınız mı Var?",
+      "content": "Bu Kullanım Şartları hakkında herhangi bir sorunuz veya endişeniz varsa, yardımcı olmaya hazırız. Lütfen destek ekibimize ulaşmaktan çekinmeyin.",
+      "contactSupport": "Destek ile İletişime Geçin",
+      "privacyPolicy": "Gizlilik Politikası"
+    }
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "description": "Neredeyse hiç veri toplamıyoruz. Gizliliğiniz tasarımla korunuyor.",
+    "lastUpdated": "Son güncelleme:",
+    "importantNotice": {
+      "title": "Tasarım Gereği Gizlilik",
+      "content": "Zyla gizliliği temel ilke olarak inşa edilmiştir. Neredeyse hiç veri toplamıyoruz, izleme kullanmıyoruz ve açık kaynak kodumuz tam şeffaflık sağlar. Çevirileriniz gizli kalır."
+    },
+    "sections": [
+      {
+        "title": "Giriş",
+        "content": "Zyla'da gizlilik en üst önceliğimizdir. Açık kaynaklı bir çeviri aracı olarak şeffaflığa ve minimum veri toplamaya kararlıyız. Bu Gizlilik Politikası, veri işleme konusundaki basit yaklaşımımızı açıklar.",
+        "subsections": [
+          {
+            "subtitle": "Açık Kaynak Şeffaflığı",
+            "text": "Kaynak kodumuz GitHub'da herkese açık olarak mevcuttur. Veri işleme şeklimizi inceleyerek gizlilik uygulamalarımızda tam şeffaflık sağlayabilirsiniz."
+          },
+          {
+            "subtitle": "Kişisel Veri Toplama Yok",
+            "text": "Zyla hiçbir kişisel bilgiyi toplamaz, saklamaz veya işlemez. Hizmetimizi tamamen anonim olarak kullanabilirsiniz."
+          }
+        ]
+      },
+      {
+        "title": "Hangi Verileri Topluyoruz?",
+        "content": "Neredeyse hiç veri toplamıyoruz. Hizmetimiz mümkün olduğunca gizlilik odaklı olacak şekilde tasarlanmıştır.",
+        "subsections": [
+          {
+            "subtitle": "Çeviri İşleme",
+            "text": "Çeviri için gönderdiğiniz metinler üçüncü taraf yapay zeka hizmetleri tarafından gerçek zamanlı olarak işlenir ve hemen atılır. Çevirilerinizi saklamıyoruz."
+          },
+          {
+            "subtitle": "Minimum Teknik Veri",
+            "text": "Hata ayıklama ve performans izleme için temel teknik bilgiler (IP adresi, tarayıcı türü) 30 gün boyunca geçici olarak kaydedilebilir."
+          },
+          {
+            "subtitle": "Çerez veya İzleme Yok",
+            "text": "Çerez, izleme pikselleri, web işaretçileri veya başka izleme teknolojileri kullanmayız. Tarama geçmişi veya kullanım kalıpları toplanmaz."
+          },
+          {
+            "subtitle": "Kullanıcı Hesabı Yok",
+            "text": "Zyla kayıt, hesap veya herhangi bir kullanıcı kimliği gerektirmez. Tamamen anonim kalırsınız."
+          }
+        ]
+      },
+      {
+        "title": "Verileri Nasıl Kullanıyoruz?",
+        "content": "Geçici olarak işlediğimiz herhangi bir veri, yalnızca çeviri hizmetleri sağlama ve temel hizmet bakımı için kullanılır.",
+        "subsections": [
+          {
+            "subtitle": "Hizmet Çalışması",
+            "text": "Teknik günlükler hataları belirlememize, performansı optimize etmemize ve hizmetin tüm kullanıcılar için düzgün çalışmasını sağlamamıza yardımcı olur."
+          },
+          {
+            "subtitle": "Pazarlama veya Satış Yok",
+            "text": "Verileri pazarlama, reklamcılık veya herhangi bir ticari amaç için kullanmayız. Verileri üçüncü taraflarla satmayız veya paylaşmayız."
+          },
+          {
+            "subtitle": "Açık Kaynak Geliştirme",
+            "text": "Açık kaynaklı bir proje olarak, hizmeti geliştirmek için katkıda bulunanlarla anonimleştirilmiş teknik bilgileri paylaşabiliriz."
+          }
+        ]
+      },
+      {
+        "title": "Veri Paylaşımı",
+        "content": "Verilerinizi üçüncü taraflarla paylaşmayız, yasa tarafından zorunlu kılınan çok sınırlı durumlar hariç.",
+        "subsections": [
+          {
+            "subtitle": "Üçüncü Taraf Yapay Zeka Hizmetleri",
+            "text": "Çeviri istekleri harici yapay zeka sağlayıcıları tarafından işlenir. Metniniz bu hizmetlere geçici olarak gönderilir ve biz tarafından saklanmaz."
+          },
+          {
+            "subtitle": "Yalnızca Yasal Gereklilikler",
+            "text": "Mahkeme emri, celp veya hükümet talebi gibi yasal olarak zorunlu olması durumunda bilgi açıklayabiliriz. Bu son derece nadirdir."
+          },
+          {
+            "subtitle": "Gönüllü Paylaşım Yok",
+            "text": "Herhangi bir amaç için üçüncü taraflarla gönüllü olarak veri paylaşmayız, satmayız, kiralamayız veya takas etmeyiz."
+          }
+        ]
+      },
+      {
+        "title": "Veri Güvenliği",
+        "content": "Güvenlik tasarımımızın bir parçasıdır. Minimum veri topladığımız için gizlilik ihlali riski çok düşüktür.",
+        "subsections": [
+          {
+            "subtitle": "Veri Küçültme",
+            "text": "Neredeyse hiç veri toplamayarak çoğu gizlilik riskini ortadan kaldırırız. Çeviri verileri işlenir ve hemen atılır."
+          },
+          {
+            "subtitle": "Açık Kaynak Güvenliği",
+            "text": "Kodumuz herkese açık olarak denetlenebilir. Güvenlik araştırmacıları ve topluluk potansiyel güvenlik açıklarını belirleyip düzeltebilir."
+          },
+          {
+            "subtitle": "HTTPS Şifreleme",
+            "text": "Hizmetimizle tüm iletişim HTTPS şifrelemesi kullanarak aktarım sırasında verileri korur."
+          }
+        ]
+      },
+      {
+        "title": "Veri Saklama",
+        "content": "Verileri minimum süre boyunca saklar ve otomatik olarak sileriz.",
+        "subsections": [
+          {
+            "subtitle": "Çeviri Verileri",
+            "text": "Çeviri için gönderilen metinler gerçek zamanlı olarak işlenir ve hemen silinir. Hiçbir çeviri saklanmaz."
+          },
+          {
+            "subtitle": "Teknik Günlükler",
+            "text": "Geçici teknik günlükler varsa 30 gün içinde otomatik olarak silinir."
+          },
+          {
+            "subtitle": "Uzun Süreli Saklama Yok",
+            "text": "Kullanıcı verileri, profilleri veya geçmiş bilgileri veritabanlarında saklamayız."
+          }
+        ]
+      },
+      {
+        "title": "Haklarınız",
+        "content": "Neredeyse hiç kişisel veri topladığımız için geleneksel gizlilik hakları endişelerinin çoğu Zyla için geçerli değildir.",
+        "subsections": [
+          {
+            "subtitle": "Şeffaflık",
+            "text": "Açık kaynak kodumuz herhangi bir veriyi nasıl işlediğimizi tam olarak görmenizi sağlar. Gizli veri toplama uygulamaları yoktur."
+          },
+          {
+            "subtitle": "Kontrol",
+            "text": "Verileriniz üzerinde tam kontrole sahipsiniz. Herhangi bir veri işlemesini durdurmak için hizmeti kullanmayı bırakmanız yeterlidir."
+          },
+          {
+            "subtitle": "Silinecek Veri Yok",
+            "text": "Kişisel veri saklamadığımız için veri silme işlemi gerekmez."
+          }
+        ]
+      },
+      {
+        "title": "Bize Ulaşın",
+        "content": "Gizlilik hakkında sorularınız mı var? Uygulamalarımız konusunda şeffaf olmaya ve yardımcı olmaya hazırız.",
+        "subsections": [
+          {
+            "subtitle": "Gizlilik Soruları",
+            "text": "Gizlilikle ilgili herhangi bir soru için privacy@getzyla.xyz adresinden bize e-posta gönderin. Tüm sorulara 48 saat içinde yanıt veririz."
+          },
+          {
+            "subtitle": "GitHub Deposu",
+            "text": "Açık kaynaklı bir proje olarak GitHub deposumuz aracılığıyla da bize ulaşabilir ve tartışmalara katılabilirsiniz."
+          },
+          {
+            "subtitle": "Topluluk",
+            "text": "GitHub'daki topluluk tartışmalarımıza katılın ve gizlilik uygulamalarımız hakkında daha fazla bilgi edinin."
+          }
+        ]
+      }
+    ],
+    "questions": {
+      "title": "Gizlilik Hakkında Sorularınız mı Var?",
+      "content": "Gizlilik uygulamalarımız hakkında sorularınız mı var? Şeffaflığa kararlıyız ve yardımcı olmaya hazırız.",
+      "contactUs": "Bize Ulaşın",
+      "viewSourceCode": "Kaynak Kodu Görüntüle"
+    }
+  },
+  "tooltips": {
+    "soon": "Çok Yakında"
+  }
+}
