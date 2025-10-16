@@ -25,7 +25,7 @@ function validateInput(text: string, sourceLanguage: string, targetLanguage: str
 }
 
 function buildTranslationPrompt(text: string, sourceLanguage: string, targetLanguage: string): string {
-  return `Translate the following text from ${sourceLanguage} to ${targetLanguage}. Your translation must be fluent, natural, and idiomatic, as if written by a native speaker of the target language with C2-level proficiency. Use vocabulary, expressions, sentence structures, and tone that are commonly used in everyday and professional communication in the target language. Consider the original context, intent, style, and register of the source text. Adapt the translation to fit the cultural norms, communication style, and expectations of native speakers of the target language. Rephrase where necessary to ensure the output reads authentically and naturally. Translate idioms, metaphors, and culturally specific references using equivalent expressions in the target language that preserve the original meaning and tone. Avoid literal or word-for-word translation unless explicitly required. Ensure clarity, grammatical accuracy, consistency in terminology, and appropriate use of tenses and structure. Do not include any commentary, notes, or explanations. Do not embellish or simplify the content unless it improves readability without changing the intended message. Output only the translated text: ${text}`;
+  return `Translate from ${sourceLanguage} to ${targetLanguage}. Be natural and idiomatic. Output only the translation: ${text}`;
 }
 
 function buildTranslationUrl(prompt: string, token: string): string {
