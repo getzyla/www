@@ -1,6 +1,7 @@
 {
   "navbar": {
     "extensionButton": "Eklentiyi Yükle",
+    "historyButton": "Geçmiş",
     "settingsDialog": {
       "title": "Ayarlar",
       "description": "Zyla'yı ihtiyaçlarınıza göre özelleştirin.",
@@ -23,7 +24,8 @@
     "copied": "Kopyalandı",
     "copy": "Kopyala",
     "translationFailed": "Çeviri başarısız oldu. Lütfen tekrar deneyin.",
-    "characters": "karakter"
+    "characters": "karakter",
+    "createAnotherTranslate": "Yeni Çeviri Oluştur"
   },
   "why": {
     "title": "Neden Zyla?",
@@ -148,7 +150,6 @@
   "terms": {
     "title": "Kullanım Şartları",
     "description": "Zyla'nın çeviri hizmetlerini kullanmadan önce lütfen bu şartları dikkatlice okuyun.",
-    "lastUpdated": "Son güncelleme: 15 Ekim 2025",
     "importantNotice": {
       "title": "Önemli Uyarı",
       "content": "Zyla'yı kullanarak bu şartların tamamını kabul etmiş olursunuz. Kabul etmiyorsanız lütfen hizmetimizi kullanmayın. Haklarınızı ve yükümlülüklerinizi anlamak için bu belgeyi tamamen okumanızı öneririz."
@@ -343,6 +344,8 @@
         ]
       }
     ],
+    "deleteTranslations": "Çeviri geçmişinizi silmek için aşağıdaki butonu kullanabilirsiniz. Bu işlem geri alınamaz.",
+    "deleteAllTranslations": "Tüm Çevirileri Sil",
     "questions": {
       "title": "Şartlarımız Hakkında Sorularınız mı Var?",
       "content": "Bu Kullanım Şartları hakkında herhangi bir sorunuz veya endişeniz varsa, yardımcı olmaya hazırız. Lütfen destek ekibimize ulaşmaktan çekinmeyin.",
@@ -353,7 +356,6 @@
   "privacy": {
     "title": "Gizlilik Politikası",
     "description": "Neredeyse hiç veri toplamıyoruz. Gizliliğiniz tasarımla korunuyor.",
-    "lastUpdated": "Son güncelleme:",
     "importantNotice": {
       "title": "Tasarım Gereği Gizlilik",
       "content": "Zyla gizliliği temel ilke olarak inşa edilmiştir. Neredeyse hiç veri toplamıyoruz, izleme kullanmıyoruz ve açık kaynak kodumuz tam şeffaflık sağlar. Çevirileriniz gizli kalır."
@@ -504,12 +506,28 @@
         ]
       }
     ],
+    "deleteTranslations": "Çeviri geçmişinizi silmek için aşağıdaki butonu kullanabilirsiniz. Bu işlem geri alınamaz.",
+    "deleteAllTranslations": "Tüm Çevirileri Sil",
     "questions": {
       "title": "Gizlilik Hakkında Sorularınız mı Var?",
       "content": "Gizlilik uygulamalarımız hakkında sorularınız mı var? Şeffaflığa kararlıyız ve yardımcı olmaya hazırız.",
       "contactUs": "Bize Ulaşın",
       "viewSourceCode": "Kaynak Kodu Görüntüle"
     }
+  },
+  "histories": {
+    "title": "Çeviri Geçmişi",
+    "description": "Daha önce yaptığınız çevirileri burada görebilir ve inceleyebilirsiniz.",
+    "loadError": "Çeviriler yüklenirken hata oluştu.",
+    "noTranslations": "Henüz çeviri yapmadınız.",
+    "originalText": "Orijinal Metin",
+    "translatedText": "Çeviri",
+    "delete": "Sil",
+    "deleteAll": "Tümünü Sil",
+    "deleteAllTitle": "Tüm çevirileri sil",
+    "deleteAllDescription": "Bu işlem geri alınamaz. Tüm çeviri geçmişiniz kalıcı olarak silinecek.",
+    "cancel": "İptal",
+    "confirm": "Onayla"
   },
   "tooltips": {
     "soon": "Çok Yakında"

@@ -1,6 +1,7 @@
 {
   "navbar": {
     "extensionButton": "Install Extension",
+    "historyButton": "History",
     "settingsDialog": {
       "title": "Settings",
       "description": "Customize Zyla to fit your needs.",
@@ -23,7 +24,8 @@
     "copied": "Copied",
     "copy": "Copy",
     "translationFailed": "Translation failed. Please try again.",
-    "characters": "characters"
+    "characters": "characters",
+    "createAnotherTranslate": "Create Another Translate"
   },
   "why": {
     "title": "Why Zyla?",
@@ -148,7 +150,6 @@
   "terms": {
     "title": "Terms of Use",
     "description": "Please read these terms carefully before using Zyla's translation services.",
-    "lastUpdated": "Last updated: October 15, 2025",
     "importantNotice": {
       "title": "Important Notice",
       "content": "By using Zyla, you accept all of these terms. If you do not accept them, please do not use our service. We recommend reading this document in full to understand your rights and obligations."
@@ -343,6 +344,8 @@
         ]
       }
     ],
+    "deleteTranslations": "You can use the button below to delete your translation history. This action cannot be undone.",
+    "deleteAllTranslations": "Delete All Translations",
     "questions": {
       "title": "Have Questions About Our Terms?",
       "content": "If you have any questions or concerns about these Terms of Use, we are ready to help. Please feel free to contact our support team.",
@@ -353,7 +356,6 @@
   "privacy": {
     "title": "Privacy Policy",
     "description": "We collect almost no data. Your privacy is protected by design.",
-    "lastUpdated": "Last updated:",
     "importantNotice": {
       "title": "Privacy by Design",
       "content": "Zyla is built with privacy as a core principle. We collect almost no data, use no tracking, and our open source code provides full transparency. Your translations remain confidential."
@@ -504,12 +506,28 @@
         ]
       }
     ],
+    "deleteTranslations": "You can use the button below to delete your translation history. This action cannot be undone.",
+    "deleteAllTranslations": "Delete All Translations",
     "questions": {
       "title": "Have Questions About Privacy?",
       "content": "Do you have questions about our privacy practices? We are committed to transparency and ready to help.",
       "contactUs": "Contact Us",
       "viewSourceCode": "View Source Code"
     }
+  },
+  "histories": {
+    "title": "Translation History",
+    "description": "View and review your previous translations here.",
+    "loadError": "Error loading translations.",
+    "noTranslations": "You haven't made any translations yet.",
+    "originalText": "Original Text",
+    "translatedText": "Translation",
+    "delete": "Delete",
+    "deleteAll": "Delete All",
+    "deleteAllTitle": "Delete all translations",
+    "deleteAllDescription": "This action cannot be undone. All your translation history will be permanently deleted.",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
   },
   "tooltips": {
     "soon": "Coming Soon"
