@@ -88,7 +88,7 @@
                     {error}
                 </div>
             {:else if translations.length === 0}
-                <div class="text-center text-black opacity-80 py-12">
+                <div class="text-center opacity-80 py-12">
                     {$_("histories.noTranslations")}
                 </div>
             {:else}
