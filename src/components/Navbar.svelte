@@ -4,12 +4,17 @@
     import * as Select from "$lib/components/ui/select/index";
     import { language, setLanguage } from "$lib/stores/language";
     import { languages } from "$lib/utils/languages";
+    import { theme, setTheme } from "$lib/stores/theme";
+    import { themes } from "$lib/utils/themes";
     import { _ } from "svelte-i18n";
     import * as Tooltip from "$lib/components/ui/tooltip/index";
 
     let settingsDialogOpen = $state(false);
     const currentLanguage = $derived($language);
     const languageTriggerContent = $derived(languages.find((lang) => lang.code === currentLanguage)?.name ?? "Select language");
+    const currentTheme = $derived($theme);
+    const themeTriggerContent = $derived(themes.find((th) => th.code === currentTheme) ? $_("themes." + currentTheme) : "Select theme");
+    const logoSrc = $derived(currentTheme === 'dark' ? 'https://www.upload.ee/image/18713679/zyla-white.png' : 'https://www.upload.ee/thumb/18702411/Zyla_Logo_Black.png');
 
     function handleLanguageChange(selectedCode: string | undefined) {
         if (!selectedCode) return;
@@ -19,11 +24,20 @@
 
         setLanguage(selectedCode as typeof languages[number]["code"]);
     }
+
+    function handleThemeChange(selectedCode: string | undefined) {
+        if (!selectedCode) return;
+
+        const validThemeCodes = themes.map((th) => th.code);
+        if (!validThemeCodes.includes(selectedCode)) return;
+
+        setTheme(selectedCode as typeof themes[number]["code"]);
+    }
 </script>
 
 <nav class="w-full h-14 flex items-center justify-between px-4">
     <a href="/">
-        <img src="https://www.upload.ee/thumb/18702411/Zyla_Logo_Black.png" alt="Zyla Logo" class="h-7 hover:-rotate-6 cursor-pointer transition-all duration-200" />
+        <img src={logoSrc} alt="Zyla Logo" class="h-7 hover:-rotate-6 cursor-pointer transition-all duration-200" />
     </a>
 
     <div class="flex items-center gap-2">
@@ -67,6 +81,21 @@
                                     {#each languages as lang (lang.code)}
                                         <Select.Item value={lang.code} label={lang.name}>
                                             {lang.name}
+                                        </Select.Item>
+                                    {/each}
+                                </Select.Content>
+                            </Select.Root>
+                        </div>
+                        <div>
+                            <h3 class="text-sm font-medium mb-3">{$_("navbar.settingsDialog.themeLabel")}</h3>
+                            <Select.Root type="single" value={currentTheme} onValueChange={handleThemeChange}>
+                                <Select.Trigger class="w-full">
+                                    {themeTriggerContent}
+                                </Select.Trigger>
+                                <Select.Content>
+                                    {#each themes as th (th.code)}
+                                        <Select.Item value={th.code} label={$_("themes." + th.code)}>
+                                            {$_("themes." + th.code)}
                                         </Select.Item>
                                     {/each}
                                 </Select.Content>

@@ -13,7 +13,7 @@
 <AccordionPrimitive.Content
 	bind:ref
 	data-slot="accordion-content"
-	class="data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down overflow-hidden text-sm border bg-white mt-2 text-left rounded-md"
+	class="data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down overflow-hidden text-sm border bg-white mt-2 text-left rounded-md dark:bg-white/5 dark:border dark:border-white/10"
 	{...restProps}
 >
 	<div class={cn(className)}>

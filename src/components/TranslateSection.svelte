@@ -131,14 +131,14 @@
 
 <div class="w-full max-w-6xl mx-auto mt-12 grid {translatedText ? 'grid-cols-1 lg:grid-cols-2' : 'grid-cols-1'} gap-6">
     <!-- svelte-ignore event_directive_deprecated -->
-    <form class="relative bg-white rounded-md border shadow" on:submit={handleTranslate}>
+    <form class="relative bg-white dark:bg-white/5 dark:border dark:border-white/10 rounded-md border shadow" on:submit={handleTranslate}>
         <div class="p-4">
             <div class="flex items-center justify-between mb-3">
                 <!-- svelte-ignore a11y_label_has_associated_control -->
                 <label class="text-xs md:text-sm font-medium opacity-80">
                     {$_("translateSection.textToTranslate")}
                 </label>
-                <span class="text-xs text-black/50">
+                <span class="text-xs text-black/50 dark:text-white/50">
                     {inputText.length}
                     {$_("translateSection.characters")}
                 </span>
@@ -186,7 +186,7 @@
             <Textarea
                 bind:value={inputText}
                 placeholder={$_("translateSection.placeholder")}
-                class="min-h-[150px] sm:min-h-[200px] resize-none border-0 focus-visible:ring-0 text-base bg-transparent break-words"
+                class="min-h-[150px] sm:min-h-[200px] resize-none border-0 focus-visible:ring-0 text-base bg-transparent break-words dark:bg-white/5 dark:border dark:border-white/10"
             />
 
             <div class="flex items-center justify-between mt-4 pt-4 border-t">
@@ -229,7 +229,7 @@
 
     {#if translatedText}
         <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
-        <div class="relative bg-white rounded-md border shadow" bind:this={resultDiv} tabindex="0">
+        <div class="relative bg-white dark:bg-white/5 rounded-md dark:border dark:border-white/10 shadow" bind:this={resultDiv} tabindex="0">
             <div class="p-4">
                 <div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between mb-3">
                     <!-- svelte-ignore a11y_label_has_associated_control -->
@@ -260,7 +260,7 @@
                     </div>
                 </div>
                 <div class="overflow-hidden">
-                    <p class="text-sm md:text-base text-black/80 whitespace-pre-wrap leading-relaxed text-left break-words">
+                    <p class="text-sm md:text-base whitespace-pre-wrap leading-relaxed text-left break-words">
                         {translatedText}
                     </p>
                 </div>

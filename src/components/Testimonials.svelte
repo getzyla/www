@@ -50,8 +50,8 @@
                     <Card.Root class="h-full border shadow">
                         <Card.Header>
                             <div class="flex items-start gap-4 mb-4">
-                                <div class="w-12 h-12 rounded-md bg-primary/10 flex items-center justify-center flex-shrink-0">
-                                    <span class="text-sm font-semibold text-primary">
+                                <div class="w-12 h-12 rounded-md bg-primary/10 dark:bg-white/5 dark:border dark:border-white/10 flex items-center justify-center flex-shrink-0">
+                                    <span class="text-sm font-semibold text-primary dark:text-white">
                                         {testimonial.avatar}
                                     </span>
                                 </div>
@@ -86,7 +86,7 @@
         </div>
 
         <div class="mt-12 sm:mt-16 text-center">
-            <div class="inline-flex items-center gap-4 sm:gap-8 px-6 sm:px-8 py-4 sm:py-6 rounded-md border bg-secondary/5">
+            <div class="inline-flex items-center gap-4 sm:gap-8 px-6 sm:px-8 py-4 sm:py-6 rounded-md border bg-secondary/5 dark:bg-white/5 dark:border dark:border-white/10">
                 <div class="text-center">
                     <div class="text-2xl sm:text-3xl font-bold">100+</div>
                     <div class="text-sm opacity-70 mt-1">{$_("testimonials.stats.activeUsers")}</div>

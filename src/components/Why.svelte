@@ -43,7 +43,7 @@
     }
 </script>
 
-<section class="w-full min-h-96 py-12 sm:py-20 flex justify-center items-center border rounded-md bg-secondary/10">
+<section class="w-full min-h-96 py-12 sm:py-20 flex justify-center items-center border rounded-md bg-secondary/10 dark:bg-white/5 dark:border dark:border-white/10">
     <div class="w-full max-w-6xl px-4">
         <div class="text-center mb-12 sm:mb-16">
             <h1 class="text-3xl sm:text-4xl font-bold mb-6">

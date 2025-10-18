@@ -5,8 +5,13 @@
     "settingsDialog": {
       "title": "Einstellungen",
       "description": "Passen Sie Zyla an Ihre Bedürfnisse an.",
-      "languageLabel": "Sprache"
+      "languageLabel": "Sprache",
+      "themeLabel": "Thema"
     }
+  },
+  "themes": {
+    "light": "Hell",
+    "dark": "Dunkel"
   },
   "hero": {
     "title": "KI-gestützte Sofortübersetzung für alle",

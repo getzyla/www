@@ -5,8 +5,13 @@
     "settingsDialog": {
       "title": "Ayarlar",
       "description": "Zyla'yı ihtiyaçlarınıza göre özelleştirin.",
-      "languageLabel": "Dil"
+      "languageLabel": "Dil",
+      "themeLabel": "Tema"
     }
+  },
+  "themes": {
+    "light": "Açık",
+    "dark": "Koyu"
   },
   "hero": {
     "title": "Herkes için yapay zekâ destekli anında çeviri",

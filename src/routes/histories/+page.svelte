@@ -66,7 +66,7 @@
     <div class="py-8">
         <div class="container mx-auto">
             <h1 class="text-xl md:text-2xl lg:text-3xl font-bold text-left mb-4">{$_("histories.title")}</h1>
-            <p class="text-xs md:text-sm lg:text-base text-left text-black opacity-80 mb-4">{$_("histories.description")}</p>
+            <p class="text-xs md:text-sm lg:text-base text-left opacity-80 mb-4">{$_("histories.description")}</p>
 
             {#if translations.length > 0}
                 <Button variant="outline" onclick={() => deleteAllDialogOpen = true} class="mb-4">
@@ -99,20 +99,20 @@
                                 <Card.Title class="text-base md:text-lg">
                                     {translation.sourceLanguage.toUpperCase()} → {translation.targetLanguage.toUpperCase()}
                                 </Card.Title>
-                                <Card.Description class="text-xs md:text-sm text-black opacity-80">
+                                <Card.Description class="text-xs md:text-sm opacity-80">
                                     {formatDate(translation.timestamp)}
                                 </Card.Description>
                             </Card.Header>
                             <Card.Content class="space-y-4">
                                 <div>
                                     <h4 class="text-xs md:text-sm font-medium mb-2">{$_("histories.originalText")}</h4>
-                                    <p class="text-xs md:text-sm bg-secondary border p-2 md:p-3 rounded-md break-words">
+                                    <p class="text-xs md:text-sm bg-secondary dark:bg-white/5 dark:border dark:border-white/10 border p-2 md:p-3 rounded-md break-words">
                                         {translation.inputText}
                                     </p>
                                 </div>
                                 <div>
                                     <h4 class="text-xs md:text-sm font-medium mb-2">{$_("histories.translatedText")}</h4>
-                                    <p class="text-xs md:text-sm bg-secondary border p-2 md:p-3 rounded-md break-words">
+                                    <p class="text-xs md:text-sm bg-secondary dark:bg-white/5 dark:border dark:border-white/10 border p-2 md:p-3 rounded-md break-words">
                                         {translation.translatedText}
                                     </p>
                                 </div>

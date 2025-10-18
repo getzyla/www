@@ -5,8 +5,13 @@
     "settingsDialog": {
       "title": "Settings",
       "description": "Customize Zyla to fit your needs.",
-      "languageLabel": "Language"
+      "languageLabel": "Language",
+      "themeLabel": "Theme"
     }
+  },
+  "themes": {
+    "light": "Light",
+    "dark": "Dark"
   },
   "hero": {
     "title": "Instant AI-powered translation for everyone",
