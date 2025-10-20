@@ -106,15 +106,13 @@
             </Dialog.Content>
         </Dialog.Root>
 
-        <Tooltip.Provider>
-            <Tooltip.Root>
-                <Tooltip.Trigger>
-                    <Button variant="outline" disabled>{$_("navbar.extensionButton")}</Button>
-                </Tooltip.Trigger>
-                <Tooltip.Content>
-                    <p>{$_("tooltips.soon")}</p>
-                </Tooltip.Content>
-            </Tooltip.Root>
-        </Tooltip.Provider>
+        <Button
+            href="https://chromewebstore.google.com/detail/zyla/afikfkdhdjiiibeiacgndeagljfigbni?utm_source=zyla"
+            variant="outline"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            {$_("navbar.extensionButton")}
+        </Button>
     </div>
 </nav>
