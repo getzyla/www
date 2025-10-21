@@ -5,435 +5,439 @@ interface Language {
 
 export const translateLanguages: Language[] = [
   {
-    code: "tr",
-    name: "Turkish"
+    code: 'auto',
+    name: 'Auto-detect'
   },
   {
-    code: "en",
-    name: "English"
+    code: 'tr',
+    name: 'Turkish'
   },
   {
-    code: "af",
-    name: "Afrikaans"
+    code: 'en',
+    name: 'English'
   },
   {
-    code: "am",
-    name: "አማርኛ"
+    code: 'af',
+    name: 'Afrikaans'
   },
   {
-    code: "ar",
-    name: "العربية"
+    code: 'am',
+    name: 'አማርኛ'
   },
   {
-    code: "as",
-    name: "অসমীয়া"
+    code: 'ar',
+    name: 'العربية'
   },
   {
-    code: "az",
-    name: "Azərbaycan dili"
+    code: 'as',
+    name: 'অসমীয়া'
   },
   {
-    code: "bg",
-    name: "Български"
+    code: 'az',
+    name: 'Azərbaycan dili'
   },
   {
-    code: "bh",
-    name: "भोजपुरी"
+    code: 'bg',
+    name: 'Български'
   },
   {
-    code: "bn",
-    name: "বাংলা"
+    code: 'bh',
+    name: 'भोजपुरी'
   },
   {
-    code: "bo",
-    name: "བོད་ཡིག"
+    code: 'bn',
+    name: 'বাংলা'
   },
   {
-    code: "br",
-    name: "Brezhoneg"
+    code: 'bo',
+    name: 'བོད་ཡིག'
   },
   {
-    code: "bs",
-    name: "Bosanski"
+    code: 'br',
+    name: 'Brezhoneg'
   },
   {
-    code: "ca",
-    name: "Català"
+    code: 'bs',
+    name: 'Bosanski'
   },
   {
-    code: "cs",
-    name: "Čeština"
+    code: 'ca',
+    name: 'Català'
   },
   {
-    code: "cy",
-    name: "Cymraeg"
+    code: 'cs',
+    name: 'Čeština'
   },
   {
-    code: "da",
-    name: "Dansk"
+    code: 'cy',
+    name: 'Cymraeg'
   },
   {
-    code: "de",
-    name: "Deutsch"
+    code: 'da',
+    name: 'Dansk'
   },
   {
-    code: "dz",
-    name: "རྫོང་ཁ"
+    code: 'de',
+    name: 'Deutsch'
   },
   {
-    code: "el",
-    name: "Ελληνικά"
+    code: 'dz',
+    name: 'རྫོང་ཁ'
   },
   {
-    code: "es",
-    name: "Español"
+    code: 'el',
+    name: 'Ελληνικά'
   },
   {
-    code: "et",
-    name: "Eesti"
+    code: 'es',
+    name: 'Español'
   },
   {
-    code: "eu",
-    name: "Euskera"
+    code: 'et',
+    name: 'Eesti'
   },
   {
-    code: "fa",
-    name: "فارسی"
+    code: 'eu',
+    name: 'Euskera'
   },
   {
-    code: "fi",
-    name: "Suomi"
+    code: 'fa',
+    name: 'فارسی'
   },
   {
-    code: "fo",
-    name: "Føroyskt"
+    code: 'fi',
+    name: 'Suomi'
   },
   {
-    code: "fr",
-    name: "Français"
+    code: 'fo',
+    name: 'Føroyskt'
   },
   {
-    code: "ga",
-    name: "Gaeilge"
+    code: 'fr',
+    name: 'Français'
   },
   {
-    code: "gd",
-    name: "Gàidhlig"
+    code: 'ga',
+    name: 'Gaeilge'
   },
   {
-    code: "gl",
-    name: "Galego"
+    code: 'gd',
+    name: 'Gàidhlig'
   },
   {
-    code: "gu",
-    name: "ગુજરાતી"
+    code: 'gl',
+    name: 'Galego'
   },
   {
-    code: "ha",
-    name: "Hausa"
+    code: 'gu',
+    name: 'ગુજરાતી'
   },
   {
-    code: "he",
-    name: "עברית"
+    code: 'ha',
+    name: 'Hausa'
   },
   {
-    code: "hi",
-    name: "हिन्दी"
+    code: 'he',
+    name: 'עברית'
   },
   {
-    code: "hr",
-    name: "Hrvatski"
+    code: 'hi',
+    name: 'हिन्दी'
   },
   {
-    code: "hu",
-    name: "Magyar"
+    code: 'hr',
+    name: 'Hrvatski'
   },
   {
-    code: "hy",
-    name: "Հայերեն"
+    code: 'hu',
+    name: 'Magyar'
   },
   {
-    code: "id",
-    name: "Bahasa Indonesia"
+    code: 'hy',
+    name: 'Հայերեն'
   },
   {
-    code: "ig",
-    name: "Igbo"
+    code: 'id',
+    name: 'Bahasa Indonesia'
   },
   {
-    code: "is",
-    name: "Íslenska"
+    code: 'ig',
+    name: 'Igbo'
   },
   {
-    code: "it",
-    name: "Italiano"
+    code: 'is',
+    name: 'Íslenska'
   },
   {
-    code: "ja",
-    name: "日本語"
+    code: 'it',
+    name: 'Italiano'
   },
   {
-    code: "ka",
-    name: "ქართული"
+    code: 'ja',
+    name: '日本語'
   },
   {
-    code: "kk",
-    name: "Қазақша"
+    code: 'ka',
+    name: 'ქართული'
   },
   {
-    code: "kl",
-    name: "Kalaallisut"
+    code: 'kk',
+    name: 'Қазақша'
   },
   {
-    code: "km",
-    name: "ខ្មែរ"
+    code: 'kl',
+    name: 'Kalaallisut'
   },
   {
-    code: "kn",
-    name: "ಕನ್ನಡ"
+    code: 'km',
+    name: 'ខ្មែរ'
   },
   {
-    code: "ko",
-    name: "한국어"
+    code: 'kn',
+    name: 'ಕನ್ನಡ'
   },
   {
-    code: "ky",
-    name: "Кыргызча"
+    code: 'ko',
+    name: '한국어'
   },
   {
-    code: "lb",
-    name: "Lëtzebuergesch"
+    code: 'ky',
+    name: 'Кыргызча'
   },
   {
-    code: "lg",
-    name: "Luganda"
+    code: 'lb',
+    name: 'Lëtzebuergesch'
   },
   {
-    code: "lo",
-    name: "ລາວ"
+    code: 'lg',
+    name: 'Luganda'
   },
   {
-    code: "lt",
-    name: "Lietuvių"
+    code: 'lo',
+    name: 'ລາວ'
   },
   {
-    code: "lv",
-    name: "Latviešu"
+    code: 'lt',
+    name: 'Lietuvių'
   },
   {
-    code: "mai",
-    name: "मैथिली"
+    code: 'lv',
+    name: 'Latviešu'
   },
   {
-    code: "mk",
-    name: "Македонски"
+    code: 'mai',
+    name: 'मैथिली'
   },
   {
-    code: "ml",
-    name: "മലയാളം"
+    code: 'mk',
+    name: 'Македонски'
   },
   {
-    code: "mn",
-    name: "Монгол"
+    code: 'ml',
+    name: 'മലയാളം'
   },
   {
-    code: "mr",
-    name: "मराठी"
+    code: 'mn',
+    name: 'Монгол'
   },
   {
-    code: "ms",
-    name: "Bahasa Melayu"
+    code: 'mr',
+    name: 'मराठी'
   },
   {
-    code: "mt",
-    name: "Malti"
+    code: 'ms',
+    name: 'Bahasa Melayu'
   },
   {
-    code: "my",
-    name: "မြန်မာဘာသာ"
+    code: 'mt',
+    name: 'Malti'
   },
   {
-    code: "ne",
-    name: "नेपाली"
+    code: 'my',
+    name: 'မြန်မာဘာသာ'
   },
   {
-    code: "nl",
-    name: "Nederlands"
+    code: 'ne',
+    name: 'नेपाली'
   },
   {
-    code: "no",
-    name: "Norsk"
+    code: 'nl',
+    name: 'Nederlands'
   },
   {
-    code: "nr",
-    name: "isiNdebele"
+    code: 'no',
+    name: 'Norsk'
   },
   {
-    code: "nso",
-    name: "Sesotho sa Leboa"
+    code: 'nr',
+    name: 'isiNdebele'
   },
   {
-    code: "ny",
-    name: "Chichewa"
+    code: 'nso',
+    name: 'Sesotho sa Leboa'
   },
   {
-    code: "oc",
-    name: "Occitan"
+    code: 'ny',
+    name: 'Chichewa'
   },
   {
-    code: "om",
-    name: "Oromoo"
+    code: 'oc',
+    name: 'Occitan'
   },
   {
-    code: "or",
-    name: "ଓଡ଼ିଆ"
+    code: 'om',
+    name: 'Oromoo'
   },
   {
-    code: "pa",
-    name: "ਪੰਜਾਬੀ"
+    code: 'or',
+    name: 'ଓଡ଼ିଆ'
   },
   {
-    code: "pl",
-    name: "Polski"
+    code: 'pa',
+    name: 'ਪੰਜਾਬੀ'
   },
   {
-    code: "ps",
-    name: "پښتو"
+    code: 'pl',
+    name: 'Polski'
   },
   {
-    code: "pt",
-    name: "Português"
+    code: 'ps',
+    name: 'پښتو'
   },
   {
-    code: "ro",
-    name: "Română"
+    code: 'pt',
+    name: 'Português'
   },
   {
-    code: "ru",
-    name: "Русский"
+    code: 'ro',
+    name: 'Română'
   },
   {
-    code: "rw",
-    name: "Kinyarwanda"
+    code: 'ru',
+    name: 'Русский'
   },
   {
-    code: "sa",
-    name: "संस्कृतम्"
+    code: 'rw',
+    name: 'Kinyarwanda'
   },
   {
-    code: "sd",
-    name: "سنڌي"
+    code: 'sa',
+    name: 'संस्कृतम्'
   },
   {
-    code: "si",
-    name: "සිංහල"
+    code: 'sd',
+    name: 'سنڌي'
   },
   {
-    code: "sk",
-    name: "Slovenčina"
+    code: 'si',
+    name: 'සිංහල'
   },
   {
-    code: "sl",
-    name: "Slovenščina"
+    code: 'sk',
+    name: 'Slovenčina'
   },
   {
-    code: "so",
-    name: "Soomaali"
+    code: 'sl',
+    name: 'Slovenščina'
   },
   {
-    code: "sq",
-    name: "Shqip"
+    code: 'so',
+    name: 'Soomaali'
   },
   {
-    code: "sr",
-    name: "Српски"
+    code: 'sq',
+    name: 'Shqip'
   },
   {
-    code: "ss",
-    name: "SiSwati"
+    code: 'sr',
+    name: 'Српски'
   },
   {
-    code: "st",
-    name: "Sesotho"
+    code: 'ss',
+    name: 'SiSwati'
   },
   {
-    code: "sv",
-    name: "Svenska"
+    code: 'st',
+    name: 'Sesotho'
   },
   {
-    code: "sw",
-    name: "Kiswahili"
+    code: 'sv',
+    name: 'Svenska'
   },
   {
-    code: "ta",
-    name: "தமிழ்"
+    code: 'sw',
+    name: 'Kiswahili'
   },
   {
-    code: "te",
-    name: "తెలుగు"
+    code: 'ta',
+    name: 'தமிழ்'
   },
   {
-    code: "tg",
-    name: "Тоҷикӣ"
+    code: 'te',
+    name: 'తెలుగు'
   },
   {
-    code: "th",
-    name: "ไทย"
+    code: 'tg',
+    name: 'Тоҷикӣ'
   },
   {
-    code: "ti",
-    name: "ትግርኛ"
+    code: 'th',
+    name: 'ไทย'
   },
   {
-    code: "tk",
-    name: "Türkmençe"
+    code: 'ti',
+    name: 'ትግርኛ'
   },
   {
-    code: "tl",
-    name: "Filipino"
+    code: 'tk',
+    name: 'Türkmençe'
   },
   {
-    code: "tn",
-    name: "Setswana"
+    code: 'tl',
+    name: 'Filipino'
   },
   {
-    code: "ts",
-    name: "Xitsonga"
+    code: 'tn',
+    name: 'Setswana'
   },
   {
-    code: "ug",
-    name: "ئۇيغۇرچە"
+    code: 'ts',
+    name: 'Xitsonga'
   },
   {
-    code: "ur",
-    name: "اردو"
+    code: 'ug',
+    name: 'ئۇيغۇرچە'
   },
   {
-    code: "uz",
-    name: "Oʻzbekcha"
+    code: 'ur',
+    name: 'اردو'
   },
   {
-    code: "ve",
-    name: "Tshivenda"
+    code: 'uz',
+    name: 'Oʻzbekcha'
   },
   {
-    code: "vi",
-    name: "Tiếng Việt"
+    code: 've',
+    name: 'Tshivenda'
   },
   {
-    code: "xh",
-    name: "isiXhosa"
+    code: 'vi',
+    name: 'Tiếng Việt'
   },
   {
-    code: "yo",
-    name: "Yorùbá"
+    code: 'xh',
+    name: 'isiXhosa'
   },
   {
-    code: "zh",
-    name: "中文"
+    code: 'yo',
+    name: 'Yorùbá'
   },
   {
-    code: "zu",
-    name: "isiZulu"
+    code: 'zh',
+    name: '中文'
+  },
+  {
+    code: 'zu',
+    name: 'isiZulu'
   }
 ];

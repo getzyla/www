@@ -12,7 +12,7 @@
     let translatedText = $state("");
     let isTranslating = $state(false);
     let copied = $state(false);
-    let sourceLanguage = $state("en");
+    let sourceLanguage = $state("auto");
     let targetLanguage = $state("tr");
     let os = $state("unknown");
     let isTranslated = $state(false);
